@@ -1,4 +1,47 @@
-baseURL = "https://johnzzhang.github.io/"
-languageCode = "en-us"
+baseurl = "https://johnzzhang.github.io"
 title = "Bits & Chips"
 theme = "ghostwriter"
+languageCode = "en-us"
+copyright = "John Zhang"
+googleAnalytics = "XXX"
+disqusShortname = "XXX"
+
+[Author]
+    name = "John Zhang"
+    profile = "https://github.com/johnzzhang"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    intro = true
+    headline = "My headline"
+    description = "My description"
+    github = "https://github.com/johnzzhang"
+    email = "johnz@mit.edu"
+    opengraph = true
+    shareTwitter = false
+    shareFacebook = false
+    shareGooglePlus = false
+    shareLinkedIn = false
+    dateFormat = "Mon, Jan 2, 2006"
+    highlightJsUrl = ""
+    highlightJsLocalUrl = ""
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Projects"
+    url = "/project/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 4

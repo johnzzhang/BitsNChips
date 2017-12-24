@@ -1,7 +1,7 @@
 #!/bin/bash
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 # Build the project.
-hugo -t kiss
+hugo -t ghostwriter
 # Go To Public folder
 cd public/
 # Add changes to git.
