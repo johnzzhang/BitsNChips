@@ -1,24 +1,4 @@
 baseURL = "https://johnzzhang.github.io/"
 languageCode = "en-us"
 title = "Bits & Chips"
-theme = "kiss"
-copyright = "&copy; <a href=\"https://github.com/johnzzhang\">John Zhang</a> 2017"
-disqusShortname = "shortname"
-googleAnalytics = ""
-# Number of posts per page
-Paginate = 5
-enableRobotsTXT = true
-
-[params.assets]
-customCSS = ["css/custom.css"]
-
-[params.info]
-enableSocial = true # Adds OpenGraph and Twitter cards
-homeTitle = "" # Title for home page
-
-[params.social]
-github = "johnzzhang"
-email = "johnz@mit.edu"
-
-[taxonomies]
-tag ="tags"
+theme = "ghostwriter"
