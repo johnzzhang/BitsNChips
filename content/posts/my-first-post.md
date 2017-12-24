@@ -3,6 +3,7 @@ title: "My First Post"
 date: 2017-12-23T21:37:48-05:00
 draft: false
 tags: ["Test"] # Adds tags to the post
+caption: "Nothing to see here"
 ---
 ![Test](https://johnzzhang.github.io/testimage.jpg)
 # Ima scelus Achille flamma Acrisioniades opemque rogantis
