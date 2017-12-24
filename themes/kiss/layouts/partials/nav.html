@@ -1,10 +1,19 @@
-<section class="section">
+<section class="section" style="margin-bottom:-50px">
   <div class="container">
     <nav class="nav">
-      <div class="nav-left">
-        <a class="nav-item" href="{{ .Site.BaseURL }}"><h1 class="title is-4">{{ .Site.Title }}</h1></a>
+      <div class="nav-center">
+        <a class="nav-item" href="{{ .Site.BaseURL }}"><h1 class="title is-2">{{ .Site.Title }}</h1></a>
       </div>
-      <div class="nav-right">
+    </nav>
+    <nav class="nav">
+      <div class="nav-center">
+      <h2 class="nav-item subtitle is-6">A Whole Log Of Interesting Nonsense</h2>
+      </div>
+    </nav>
+  </div>
+  <div class = "container">
+    <div class="nav">
+      <div class="nav-center">
         <nav class="nav-item level is-mobile">
           {{ partial "navigation" . }}
           {{- range $platform, $username := .Site.Params.social -}}
@@ -20,6 +29,6 @@
           {{- end -}}
         </nav>
       </div>
-    </nav>
+    </div>
   </div>
 </section>
