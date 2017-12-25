@@ -2,13 +2,7 @@
 {{ partial "nav" . }}
 <section class="section">
   <div class="container">
-    {{ range sort .Paginator.Pages }}
-    <article style="margin-bottom:-40px">
-      <h2 class="subtitle is-6">{{ .Date.Format "January 2, 2006" }}</h2>
-      <h1 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }} ::Draft{{ end }}</h1>
-    </article>
-    {{ end }}
+     <img src="https://johnzzhang.github.io/lathe.jpg">
   </div>
 </section>
-{{ partial "pager" . }}
 {{ partial "footer" . }}

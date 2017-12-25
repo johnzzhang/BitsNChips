@@ -3,7 +3,6 @@
 <section class="section">
   <div class="container">
     {{ partial "avatar" . }}
-    <h1 class="title">{{ .Title }}</h1>
     {{ if and (.Site.Params.Info.adsense) (.Params.adsenseTop) }}
     {{ partial "adsense" . }}
     {{ end }}

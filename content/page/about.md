@@ -1,7 +1,4 @@
 ---
-title: "About"
-date: 2017-12-24T22:18:42-05:00
-draft: true
+draft: false
 ---
-
-Stuff.
+John Zhang has been a Bostonian for the last ten years.

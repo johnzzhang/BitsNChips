@@ -1,0 +1,12 @@
+.img-circle {
+    border-radius: 50%;
+}
+
+.headshot {
+  width:30%;
+  height:auto;
+}
+
+.text-center {
+  text-align: center;
+}
