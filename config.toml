@@ -30,7 +30,7 @@ tag ="tags"
 
 [[menu.main]]
     name = "Projects"
-    url = "/project/"
+    url = "/projects/"
     weight = 2
 
 [[menu.main]]

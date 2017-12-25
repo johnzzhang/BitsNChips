@@ -11,7 +11,7 @@ John Zhang has been a Bostonian for ten years. He's not quite sure what to do wi
 
 He is best reached via Carrier Pidgeon, although he prefers email. He enjoys San Pellegrino, bizarre movies, and writing about himself in the third person present active indicative. His hobbies include playing guitar, collecting records, and photography.
 
-He is currently an undergraduate at the Massachusetts Institute of Technology studying to become some kind of engineer (or so he's been told). He hopes to prolong this process perpetually.
+He is currently an undergraduate at the Massachusetts Institute of Technology studying to become some kind of engineer (or so he's been told). He hopes to prolong this process indeterminably.
 
 Despite his brief and solipsistic existence as a human person, he has acquired a couple of useful skills, including but not limited to:
 
