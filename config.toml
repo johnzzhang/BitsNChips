@@ -14,7 +14,7 @@ customCSS = ["css/custom.css"]
 
 [params.info]
 enableSocial = true # Adds OpenGraph and Twitter cards
-homeTitle = "" # Title for home page
+homeTitle = "Bits & Chips" # Title for home page
 
 [params.social]
 github = "johnzzhang"

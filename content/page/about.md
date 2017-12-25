@@ -1,4 +1,7 @@
 ---
+title: "About"
 draft: false
 ---
-John Zhang has been a Bostonian for the last ten years.
+The Fuck is This?
+=============
+This blog started as a way for me to document all the random shenanigans I tend to get up to.

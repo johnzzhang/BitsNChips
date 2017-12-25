@@ -2,13 +2,16 @@
 {{ partial "nav" . }}
 <section class="section">
   <div class="container">
-    {{ range sort .Paginator.Pages }}
-    <article style="margin-bottom:-40px">
-      <h2 class="subtitle is-6">{{ .Date.Format "January 2, 2006" }}</h2>
-      <h1 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }} ::Draft{{ end }}</h1>
-    </article>
+    {{ partial "avatar" . }}
+    {{ if and (.Site.Params.Info.adsense) (.Params.adsenseTop) }}
+    {{ partial "adsense" . }}
     {{ end }}
+    <div class="content">
+      {{ .Content }}
+    </div>
+    {{ if and (.Site.Params.Info.adsense)  (.Params.adsenseBottom) }}
+    {{ partial "adsense" . }}
+    {{ end}}
   </div>
 </section>
-{{ partial "pager" . }}
 {{ partial "footer" . }}
