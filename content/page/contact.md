@@ -15,7 +15,8 @@ He is currently an undergraduate at the Massachusetts Institute of Technology st
 
 Despite his brief and solipsistic existence as a human person, he has acquired a couple of useful skills, including but not limited to:
 
-* the ability to write code,
-* the capacity to understand more than two forms of human speech,
-* the ability to manufacture useful shapes out of stock metals and materials,
-* and his "amazing" ability to read and follow simple instructions.
+* the ability to write code
+* the ability to manipulate electrons for practical purposes
+* the ability to understand to varying capacities the three most common languages on Earth, as well as one language some people would even consider dead
+* the ability to manufacture useful shapes out of stock materials
+* and his ability to read and follow simple instructions.
